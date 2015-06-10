@@ -1,4 +1,4 @@
 {
-  node: true,
-  forin: true
+  "node": true,
+  "forin": true
 }
