@@ -1,7 +1,7 @@
 {
   "name": "<%= S.dasherize(name) %>",
   "description": "<%= description %>",
-  "repository": "https://github.com/<%= name %>/<%= github_user %>.git",
+  "repository": "https://github.com/<%= github_user %>/<%= name %>/.git",
   "dependencies": {
     "body-parser": "^1.12.4",
     "express": "^4.12.4",
